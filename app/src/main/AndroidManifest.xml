@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest>
     <uses-feature
         android:glEsVersion="0x00020000"
         android:required="true" />
