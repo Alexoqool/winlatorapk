@@ -1,3 +1,3 @@
-此仓库为fork，用于尝试添加一些额外功能。
+Script for compiling Winlator .apk file
 
-原仓库：https://github.com/brunodev85/winlator
+Winlator repository: Https://github.com/brunodev85/winlator
